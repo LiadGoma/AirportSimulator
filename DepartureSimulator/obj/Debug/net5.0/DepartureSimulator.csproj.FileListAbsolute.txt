@@ -1,0 +1,12 @@
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\DepartureSimulator\bin\Debug\net5.0\DepartureSimulator.deps.json
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\DepartureSimulator\bin\Debug\net5.0\DepartureSimulator.dll
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\DepartureSimulator\bin\Debug\net5.0\ref\DepartureSimulator.dll
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\DepartureSimulator\bin\Debug\net5.0\DepartureSimulator.pdb
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\DepartureSimulator\obj\Debug\net5.0\DepartureSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\DepartureSimulator\obj\Debug\net5.0\DepartureSimulator.AssemblyInfoInputs.cache
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\DepartureSimulator\obj\Debug\net5.0\DepartureSimulator.AssemblyInfo.cs
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\DepartureSimulator\obj\Debug\net5.0\DepartureSimulator.csproj.CoreCompileInputs.cache
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\DepartureSimulator\obj\Debug\net5.0\DepartureSimulator.dll
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\DepartureSimulator\obj\Debug\net5.0\ref\DepartureSimulator.dll
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\DepartureSimulator\obj\Debug\net5.0\DepartureSimulator.pdb
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\DepartureSimulator\obj\Debug\net5.0\DepartureSimulator.csproj.AssemblyReference.cache

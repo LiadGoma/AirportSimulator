@@ -1,0 +1,12 @@
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\LandingSimulator\bin\Debug\net5.0\LandingSimulator.deps.json
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\LandingSimulator\bin\Debug\net5.0\LandingSimulator.dll
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\LandingSimulator\bin\Debug\net5.0\ref\LandingSimulator.dll
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\LandingSimulator\bin\Debug\net5.0\LandingSimulator.pdb
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\LandingSimulator\obj\Debug\net5.0\LandingSimulator.csproj.AssemblyReference.cache
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\LandingSimulator\obj\Debug\net5.0\LandingSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\LandingSimulator\obj\Debug\net5.0\LandingSimulator.AssemblyInfoInputs.cache
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\LandingSimulator\obj\Debug\net5.0\LandingSimulator.AssemblyInfo.cs
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\LandingSimulator\obj\Debug\net5.0\LandingSimulator.csproj.CoreCompileInputs.cache
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\LandingSimulator\obj\Debug\net5.0\LandingSimulator.dll
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\LandingSimulator\obj\Debug\net5.0\ref\LandingSimulator.dll
+C:\Users\liadg\OneDrive\שולחן העבודה\פרוייקטים\AirportSimulator\LandingSimulator\obj\Debug\net5.0\LandingSimulator.pdb
